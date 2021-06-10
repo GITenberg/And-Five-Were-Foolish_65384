@@ -1,5 +1,8 @@
 _repo: And-Five-Were-Foolish_65384
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65384-h/images/cover.jpg
 creator:
   author:
     agent_name: Yates, Dornford
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/384
     wikipedia: https://en.wikipedia.org/wiki/Dornford_Yates
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65384#And-Five-Were-Foolish
 gutenberg_issued: '2021-05-19'
 gutenberg_type: Text
 identifiers:
